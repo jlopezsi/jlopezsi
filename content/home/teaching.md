@@ -15,14 +15,10 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+I am a teaching instructor for the following courses at Universitat Autònoma de Barcelona:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CS101: Marketing models (models de gestió comercial)
+- CS102: Qualitative methods (Advanced Research Methods in Master in Marketing)
+- CS103: Marketing Data Science (Behavioural and Data Based Marketing in Master in Marketing)
+
