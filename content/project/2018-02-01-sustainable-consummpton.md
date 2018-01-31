@@ -3,23 +3,30 @@
 date = "2016-04-27"
 
 # Project title.
-title = "El futuro del empleo y del binestar en España"
+title = "Sustinable Consumption"
 
 # Project summary to display on homepage.
-summary = "I this project we address the implications of digital technologies on the trasnformation of organizations, employment and economy. More information in the  `external_link`."
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["automatization", "employment", "collaborative economy"]
+tags = ["sustainable", "consumption", "circular economy", "zero waste"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://quit.uab.cat/es/investigacion/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
 +++
+
+dfdfdfd
 
