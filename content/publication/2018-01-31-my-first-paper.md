@@ -1,6 +1,6 @@
 +++
-title: "Young people’s leisure patterns: testing social age, social gender, and linguistic capital hypotheses"
-date: '2018-01-31'
+title = "Young people’s leisure patterns: testing social age, social gender, and linguistic capital hypotheses"
+date = '2018-01-31'
 # Authors. Comma separated list, e.g. `["Jordi López", "XXX"]`.
 authors = ["J. López", "E. Pérez", "A. Gharhaman"]
 
