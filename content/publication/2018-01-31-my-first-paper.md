@@ -1,6 +1,5 @@
----
++++
 title: "Young people’s leisure patterns: testing social age, social gender, and linguistic capital hypotheses"
-author: Jordi López Sintas
 date: '2018-01-31'
 # Authors. Comma separated list, e.g. `["Jordi López", "XXX"]`.
 authors = ["J. López", "E. Pérez", "A. Gharhaman"]
@@ -59,7 +58,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "publications.jpg"
-caption = "My caption :smile:"
----
++++
 
 hjhjh
