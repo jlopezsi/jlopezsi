@@ -16,6 +16,8 @@ weight = 5
     "sustainable consumption and production"
   ]
 
+[View my CV]{{< ref "cv-jordi.md" >}}
+
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Business Economics"

@@ -239,7 +239,11 @@ defaultContentLanguageInSubdir = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0001-5441-4039"
-    
+  
+    [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Jordi_Lopez-Sintas"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
