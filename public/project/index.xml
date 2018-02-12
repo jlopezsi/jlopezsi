@@ -13,7 +13,16 @@
     
     
     <item>
-      <title>Deep Learning</title>
+      <title>El futuro del empleo y del binestar en España</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalization, Consumption and Young People</title>
       <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -22,12 +31,21 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <title>Social Networks, Audiovisual productions and Popularity</title>
+      <link>/project/2018-02-01-social-networks-audiovisual-productions-and-popularity/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <guid>/project/2018-02-01-social-networks-audiovisual-productions-and-popularity/</guid>
+      <description>draft</description>
+    </item>
+    
+    <item>
+      <title>Sustinable Consumption</title>
+      <link>/project/2018-02-01-sustainable-consummpton/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-02-01-sustainable-consummpton/</guid>
+      <description>dfdfdfd</description>
     </item>
     
   </channel>
