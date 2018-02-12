@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-Jordi López-Sintas is a professor of social science at the Univeristat Autònoma de Barcelona, department of Business and Certer for Research and Studies in Humanities. His research interests include qualitative methods, consumer research, data science, sustainable consumption. He leads the Consumpton, Markets and Culture group, which studies the interdependence among globalization, consumption and culture. [View my CV]{{< ref "cv-jordi.md" >}}.
+Jordi López-Sintas is a professor of social science at the Univeristat Autònoma de Barcelona, department of Business and Certer for Research and Studies in Humanities. His research interests include qualitative methods, consumer research, data science, sustainable consumption. He leads the Consumpton, Markets and Culture group, which studies the interdependence among globalization, consumption and culture. 
