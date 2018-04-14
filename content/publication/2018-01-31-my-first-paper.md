@@ -57,8 +57,8 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#image = "headers/bubbles-wide.jpg"
+caption = "My caption: smile to live:"
 +++
 
 We analysed young people’s leisure activities in order to identify their leisure habitus, discover how they combined activities into leisure patterns, and examine how leisure patterns were socially structured. We argue that the effects of age, gender, and language on how young people’s leisure patterns are structured are mediated by social class. We found that leisure practices could be classified in terms of three habitus: the frequent leisure habitus, the cultural activity habitus, and the social vs. entertainment habitus. The different combinations of these three leisure habitus by young people resulted in four patterns which we refer to as social, omnivorous, entertainment, and religious leisure patterns. The association of leisure patterns with indicators of social position suggests that, as predicted by our theoretical framework, age, gender, and language effects are diminished once we take into account the mediating role of social class. Young people’s leisure practices are therefore socially differentiated, with young immigrants forming a vulnerable group that should be the particular focus of youth leisure policies.
