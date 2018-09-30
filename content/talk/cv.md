@@ -57,7 +57,7 @@ Citizenship: Spain
 
 ## Areas of Research
  
-Consumer Research; Sociology of consumption; Sociology of Culture, Qualitative Research; 	Information, Communication and Society
+Consumer Research; Suatainable Consumption, Sociology of consumption; Sociology of Culture, Qualitative Research; 	Information, Communication and Society
 
 ## Education
  
@@ -67,7 +67,7 @@ B.A. Business Studies, Universitat Barcelona, 1982-1985
 
 ## Academic Employment
 
-Profesorhsip in social sciences, Universitat Autònoma de Barcelona, April 2017-present
+Profesorhsip in social sciences (marketing and consumer research), Universitat Autònoma de Barcelona, April 2017-present
 Associate Professor (senior lecturer), Universitat Autònoma de Barcelona, 1998-2016
 Assistant Professor,  Universitat Autònoma de Barcelona, 1995/1998
 Visiting Professor, Erasmus University, 1994/1995
@@ -75,6 +75,7 @@ Assistant Professor, Universitat Autònoma de Barcelona, 1990-1994
 
 ## Academic positions
 
+Espacual (Spanish Association for the Advancement of Qualitative Research), Current President
 Master in marketing, coordinator since 2015-present
 Director of Certer for Studies and Research in Humanities, 2004-2012
 Union Representative, since 2002-present
@@ -140,7 +141,7 @@ Dirección General de Investigación Científica y Técnica (DGICYT) PB91-0510 (
 ## Member of Current Academic Associations
 
 Current President and cofounder of Espacual (Asociación Española para el Avance de la Investigación Cualitativa), Presidente/a. Desde01/07/2016 tp01/07/2022.
-*Federación Española de Sociología*, Miembro .Desde02/05/2015a.
+*Federación Española de Sociología*, Member .Desde02/05/2015a.
 Member of Espacual (Asociación Española para el Avance de la Investigación Cualitativa), Member of the board. Since 01/12/2008a.
 *European Sociological Association*, member since 01/06/1999.
 *International Sociological Association*, Member since 9/09/1999.
@@ -148,6 +149,7 @@ Member of Espacual (Asociación Española para el Avance de la Investigación Cu
 
 ## Work in Progress and Working Papers
 
+Katz-Gerro, Tally and López-Sintas, Jordi (under review), 
 Jinju Kim & Jordi López, What do people talk about when watching Korean dramas? (in progres)
 
 Jinju Kim & Jordi López, Emotions expressed during media consumption: Intensity, popularity, variance and emotion in practice, *Social Media and Society*, under revision
@@ -162,7 +164,7 @@ Ercilia GarcÌa Álvarez; Alexandra Samper; Jordi López-sintas, Co-Creation thr
  
 López-Sintas, Jordi; López-Belbeze, Pilar; Romero, The Social Structure of Young People’s Use of the Internet. (under revision)
  
-López-Sintas, Jordi; Katz-Gerro, Tally; Lizardo, Omar (2017) ’Between the Global and the Local Culture: The double social structure of music listening habits in Europe’. *International Journal of Comparative Sociology*(under  revision).-.
+López-Sintas, Jordi; Katz-Gerro, Tally; Lizardo, Omar (2017) ’Between the Global and the Local Culture: The double social structure of music listening habits in Europe’. *International Journal of Comparative Sociology*(under  revision).
 
 ## Publications in Refereed Journals
 
