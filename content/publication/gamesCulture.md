@@ -37,7 +37,7 @@ projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "http://journals.sagepub.com/doi/abs/10.1177/1555412015595924"
-url_preprint = ""
+url_preprint = "http://journals.sagepub.com/doi/abs/10.1177/1555412015595924"
 url_code = ""
 url_dataset = ""
 url_project = ""
