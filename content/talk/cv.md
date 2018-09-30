@@ -81,7 +81,7 @@ Union Representative, since 2002-present
  
 ## Awards and Research Grants
 
-Third track of research, CNEAI (Social Sciences), Ministerio de Educación y Ciencia (from 2009 till 2014).
+Third track of research, july 2015, CNEAI (Social Sciences), Ministerio de Educación y Ciencia (from 2009 till 2014).
 
 Direcció General de Recerca, Generalitat de Catalunya: 2014-SGR-502- (2014-16).  Consumption, Markets and Culture. Principal Researcher: Jordi López-Sintas
 
@@ -148,27 +148,27 @@ Member of Espacual (Asociación Española para el Avance de la Investigación Cu
 
 ## Work in Progress and Working Papers
 
-Jinju Kim & Jordi López (2017) What do people talk about when watching Korean dramas? (in progres)
+Jinju Kim & Jordi López, What do people talk about when watching Korean dramas? (in progres)
 
-Jinju Kim & Jordi López (2017) Emotions expressed during media consumption: Intensity, popularity, variance and emotion in practice, *New Media and Society*, under revision
+Jinju Kim & Jordi López, Emotions expressed during media consumption: Intensity, popularity, variance and emotion in practice, *Social Media and Society*, under revision
 
-Jordi López & Pilar López (2017) Lifestyle of Spanish Young People (in progres)
+Jordi López & Pilar López, Lifestyle of Spanish Young People (in progres)
 
-Jordi López & Pilar López (2017) The link between in person leisure and digital leisure. (in progres)
+Jordi López & Pilar López, The link between in person leisure and digital leisure. (in progres)
 
 Sheila Sánchez-Bergara; Ercilia García-Álvarez; Jordi López-Sintas; Teresa Torres-Coronas (2017) Managing copyrighted works in a digital context: A new strategic challenge for SME’s in tourism. *Tourism Management* (under revision)
  
-Ercilia GarcÌa Álvarez; Alexandra Samper; Jordi López-sintas (2017) Co-Creation throughout the Product Life Cycle of a Social Network Game: The Gamer’s Perspectives. *Journal of Business Review.*(under revision)
+Ercilia GarcÌa Álvarez; Alexandra Samper; Jordi López-sintas, Co-Creation throughout the Product Life Cycle of a Social Network Game: The Gamer’s Perspectives. *Journal of Business Review.*(under revision)
  
-López-Sintas, Jordi; López-Belbeze, Pilar; Romero, Luis Fernando.(2017), The Social Structure of Young People’s Use of the Internet. (work in progres)
+López-Sintas, Jordi; López-Belbeze, Pilar; Romero, The Social Structure of Young People’s Use of the Internet. (under revision)
  
-López-Sintas, Jordi; Katz-Gerro, Tally; Lizardo, Omar (2017) ’Between the Global and the Local Culture: The double social structure of music listening habits in Europe’. *Acta Sociologica*.(under 3rd revision).-.
+López-Sintas, Jordi; Katz-Gerro, Tally; Lizardo, Omar (2017) ’Between the Global and the Local Culture: The double social structure of music listening habits in Europe’. *International Journal of Comparative Sociology*(under  revision).-.
 
 ## Publications in Refereed Journals
 
 Francisco, L. R. de, López-Sintas, J., & García-Álvarez, E. (2017). Home-based Digital Leisure: Doing the same leisure activities, but digital. *Cogent Social Sciences (OASS)*. https://doi.org/10.1080/23311886.2017.1309741
 
-López-Sintas, J., García Álvarez, E., & Hernández-López, A. (2017, in press). In and out of everyday life through film experiences: An analysis of two social spaces as leisure frames. *Leisure Studies*, In press. http://doi.org/http://dx.doi.org/10.1080/02614367.2016.1203351
+López-Sintas, J., García Álvarez, E., & Hernández-López, A. (2017). In and out of everyday life through film experiences: An analysis of two social spaces as leisure frames. *Leisure Studies*, In press. http://doi.org/http://dx.doi.org/10.1080/02614367.2016.1203351
 
 López-Sintas, J., Ghahraman, A., & Pérez Rubiales, E. (2017). Young People’s Leisure Patterns: Testing Social Age, Social Gender and Linguistic Capital Hypotheses. *Journal of Youth Studies*, 20(2), 180-199.
 
