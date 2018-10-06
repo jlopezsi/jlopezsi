@@ -3,13 +3,13 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Globalization, Consumption and Young People"
+title = "Globalization, ICT and Young People"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "In this research we study the relationship between young people position in the distribution of resources and the Internet choices they make, their digital experience during the transition to adulthood."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "computer-screen.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["consumption", "globalization"]`
@@ -23,12 +23,12 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/computer-screen.png"
 caption = "My caption :smile:"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In this research we study the relationship between young people position in the distribution of resources and the Internet choices they make, their digital experience during the transition to adulthood. The current socioeconomic context, after the 2008 financial crisis, may have changed the relation between young people internet uses and the usual set of sociological categories, limiting or enhancing the available choices. Younger generations may use the Internet differently due to changes in their life-stage, to the interaction between their gender and social position, to the  meaning of being young for young in different social positions, and all these in addition to the expected social stratification of Internet uses. Using the Spanish Young people survey, we find partial support to the stratification, generational, and life-stage hypotheses, as well as for the biological age, social age and gender hypotheses, but we did not find support for the social gender hypothesis. [
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
