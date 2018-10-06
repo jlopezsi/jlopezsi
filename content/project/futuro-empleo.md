@@ -9,7 +9,7 @@ title = "El futuro del empleo y del binestar en España"
 summary = "I this project we address the implications of digital technologies on the trasnformation of organizations, employment and economy. More information in the  `external_link`."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "ind-revol.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
