@@ -9,7 +9,7 @@ title = "Sustinable Consumption"
 summary = "In this research proposal we contribute to knowledge about the social processes that end with small and medium enterprises, SMEs, adopting of CE activities, and individuals consuming ecological and sustainable products."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "image-sustainable-consumption.ong"
+image_preview = "image-sustainable-consumption.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
