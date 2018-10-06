@@ -9,7 +9,7 @@ title = "Globalization, ICT and Young People"
 summary = "In this research we study the relationship between young people position in the distribution of resources and the Internet choices they make, their digital experience during the transition to adulthood."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "computer-screen.png"
+image_preview = "DataVisualization.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["consumption", "globalization"]`

@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Universitat Autònoma de Barcelona", url = "http://www.uab.cat" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "jlopez.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jlopez3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jordi.lopez@uab.cat"
   address = "Building B Room B1-118, School of Economics and Business, Bellaterra (Cerdanyola del Vallès), 08193, Catalonia, EU"
   office_hours = "Thuesday 10:00 to 13:00 and Thursday 10:00 to 13:00 or email for appointment"
