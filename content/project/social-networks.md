@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "visualiing-social.network_0"
+image = "visualizing-social-network_0"
 caption = "My caption :smile:"
 
 +++
