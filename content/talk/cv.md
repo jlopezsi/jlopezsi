@@ -82,6 +82,8 @@ Union Representative, since 2002-present
  
 ## Awards and Research Grants
 
+Direcció General de Recerca, Generalitat de Catalunya: 2017-SGR-1056 (2017-19).  Consumption, New Ventures, Management and Performance Group. Principal Researcher: Diego Prior Jiménez.
+
 Third track of research, july 2015, CNEAI (Social Sciences), Ministerio de Educación y Ciencia (from 2009 till 2014).
 
 Direcció General de Recerca, Generalitat de Catalunya: 2014-SGR-502- (2014-16).  Consumption, Markets and Culture. Principal Researcher: Jordi López-Sintas
